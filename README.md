@@ -1,4 +1,4 @@
-#Image to Text Conversion
+# Image to Text Conversion
 This will extract all the texts in an image using OCR (Optical Character Recognition).
 
 # Setup
