@@ -4,8 +4,6 @@ This will extract all the texts in an image using OCR (Optical Character Recogni
 # Setup
 Install requirements
 
-pip install -r requirements.txt
-
 ## Setup Tesseract path
 Insert Tesseract file path in main.py (line 54):
 
