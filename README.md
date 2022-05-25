@@ -7,5 +7,5 @@ Install requirements
 ## Setup Tesseract path
 Insert Tesseract file path in main.py (line 54):
 
-# Example: r'D:\TesseractOCR\tesseract'
+# Example: r'E:\TesseractOCR\tesseract.exe'
 pytesseract.pytesseract.tesseract_cmd = r'<path_to_tesseract_exe>'
